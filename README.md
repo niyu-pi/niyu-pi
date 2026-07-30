@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img style="border-radius: 10 px;" src="https://i.pinimg.com/originals/f4/ee/88/f4ee88f3d7e77cf42f98fc1a1845c4aa.gif" width="100%" alt="header">
+  <img style="border-radius: 10 px;" src="<img width="300" height="194" alt="goro-akechi-shuake" src="https://github.com/user-attachments/assets/58af273d-e45e-4b30-812b-acc04c3a5d2b" />
+" width="100%" alt="header">
 
   <br><br>
   
