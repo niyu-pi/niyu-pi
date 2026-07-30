@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img style="border-radius: 10 px;" src="<img width="300" height="194" alt="goro-akechi-shuake" src="https://github.com/user-attachments/assets/58af273d-e45e-4b30-812b-acc04c3a5d2b" />
+  <img style="border-radius: 10 px;" src="https://wertigo.ru/shared-files/62a15c5f-cdf6-4345-bf32-d4a7975bd332"/>
 " width="100%" alt="header">
 
   <br><br>
