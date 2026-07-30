@@ -1,4 +1,3 @@
-# niyu_pi
 <div align="center">
 
   <img src="[https://i.pinimg.com/736x/25/45/66/254566cc87bc90e12aaaa36dc70a2121.jpg]" width="100%" alt="header">
