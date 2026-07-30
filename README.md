@@ -8,7 +8,7 @@
   <p>
     <a href="ССЫЛКА_1">ata</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="[ССЫЛКА_НА_STRAWPAGE](https://straw.page/make?themes)">strawpage</a>
+    <a href="https://straw.page/make?themes">strawpage</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="ССЫЛКА_3">tgc</a>
   </p>
