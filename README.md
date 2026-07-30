@@ -14,6 +14,6 @@
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=niyu_pi&style=flat-square&color=000000" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=niyu-pi&style=flat-square&color=000000" alt="profile views">
 
 </div>
