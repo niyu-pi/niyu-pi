@@ -5,7 +5,7 @@
   <br><br>
   
   <p>
-    <a href="ССЫЛКА_1">𝚊𝚝𝚊</a>
+    <a href="https://niyu-pi.atabook.org">𝚊𝚝𝚊</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://niyu-pi.carrd.co">𝚌𝚊𝚛𝚛𝚍</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
