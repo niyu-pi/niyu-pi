@@ -5,11 +5,11 @@
   <br><br>
   
   <p>
-    <a href="ССЫЛКА_1">ata</a>
+    <a href="ССЫЛКА_1">𝚊𝚝𝚊</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://straw.page/make?themes">strawpage</a>
+    <a href="https://straw.page/make?themes">𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="ССЫЛКА_3">tgc</a>
+    <a href="ССЫЛКА_3">𝚝𝚐𝚌</a>
   </p>
 
   <br>
