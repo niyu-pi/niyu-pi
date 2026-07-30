@@ -1,7 +1,6 @@
 <div align="center">
 
   <img style="border-radius: 10 px;" src="https://wertigo.ru/shared-files/62a15c5f-cdf6-4345-bf32-d4a7975bd332"/>
-" width="100%" alt="header">
 
   <br><br>
   
