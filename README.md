@@ -9,7 +9,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://niyu-pi.carrd.co">𝚌𝚊𝚛𝚛𝚍</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pin.it/1X9RFAq8a">𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝</a>
+    <a href="https://ru.pinterest.com/ko_ru_mii/_profile/">𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝</a>
   </p>
 
   <br>
